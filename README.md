@@ -19,10 +19,15 @@ You can change the display mode between:
   - Standard/Fill `F`
 
 Change the top axis between Y and Z: `A`
+
 Enable/Disable auto-rotation: `R`
+
 Enable/Disable the texture movement and the color shifting: `M`
+
 Enable/Disable the texture: `T`
+
 Enable/Disable the color: `C`
+
 Reset camera to default: `SPACE`
 
 ## Run program
