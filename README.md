@@ -12,6 +12,19 @@ The technical constraints are as follows:
 - Use external libraries (other than OpenGL, Vulkan or Metal) ONLY for
 window and event management. You have the right to use your own libft.
 
+## Inputs
+You can change the display mode between:
+  - Wireframe `W`
+  - Point `P`
+  - Standard/Fill `F`
+
+Change the top axis between Y and Z: `A`
+Enable/Disable auto-rotation: `R`
+Enable/Disable the texture movement and the color shifting: `M`
+Enable/Disable the texture: `T`
+Enable/Disable the color: `C`
+Reset camera to default: `SPACE`
+
 ## Run program
 The program uses a Makefile to compile.
 
